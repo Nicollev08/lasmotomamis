@@ -1,5 +1,5 @@
 
-package javaapplication11;
+package Bolas;
 
 
 public class JavaApplication11 {

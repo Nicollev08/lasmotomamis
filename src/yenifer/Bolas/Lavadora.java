@@ -1,5 +1,5 @@
 
-package javaapplication11;
+package Bolas;
 
 import java.util.Scanner;
 
@@ -41,7 +41,8 @@ public static void main(String[] args) {
     }
     
 public void Enjuagar(){
-        System.out.println("Lavadora enjuagando!");
+        System.out.println("Lavadoraa enjuagando!");
+        
     }
     public void Temperatura(){
         System.out.println("Lavadora midiendo temperatura!");

@@ -1,4 +1,4 @@
-package javaapplication11;
+package Bolas;
 
 
 	public interface IComando {
