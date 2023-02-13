@@ -1,10 +1,10 @@
-package patronesdediseño;
+package patronesdediseï¿½o;
 
 public class SecadorApagar implements Interfaz {
 	
 	@Override
 	public void peso() {
-		System.out.println("Apagando...");
+		System.out.println("Apagando...PICOOSSS");
 		
 	}
 	
