@@ -27,6 +27,7 @@ public class Cliente {
                     break;}
             }
             
+            System.out.println("Nicol mañana no tenemos clase")
            
             
             if(opcion!=5){
