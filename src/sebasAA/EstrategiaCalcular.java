@@ -9,7 +9,7 @@ public class EstrategiaCalcular extends Lavadora_interface {
 	
 	//constructor por defecto
 	public EstrategiaCalcular() {
-		super();
+		super(catre hpt4);
 	
 		this.PesoAgua = 0;
 		this.NumPrendas = 0;
