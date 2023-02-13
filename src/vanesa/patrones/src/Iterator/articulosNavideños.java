@@ -20,7 +20,7 @@ public class articulosNavideños {
 		
 		
 		int contador=0;
-		System.out.println("vaneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ");
+		System.out.println("VANESSA Y ALEXANDER SE VAN A CASARRRRRRR ");
 		for(int i=0;i<navidad.size();i++) {
 
 		if(navidad.get(i)=="pesebre"){

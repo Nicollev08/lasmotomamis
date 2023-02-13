@@ -1,4 +1,4 @@
-package patronesdediseño;
+package patronesdediseï¿½o;
 
 import java.util.Scanner;
 
@@ -44,6 +44,7 @@ public class Cliente {
        
     }
 	
+    System.out.println("LAURAAAA VOCERITAAAAAA");
 	public static int Menu(){
         int opcion = 0;
         in = new Scanner(System.in);

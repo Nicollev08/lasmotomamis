@@ -31,6 +31,7 @@ public static void main(String[] args) {
             System.out.println("2. elige para  enjuagar");
             System.out.println("3. elige para lavar");
             System.out.println("4. elige para secar");
+            System.out.println("cambio de nicole");
             
             opcion = in.nextInt();
             if(opcion < 1 || opcion > 5){
