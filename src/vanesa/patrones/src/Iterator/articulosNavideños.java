@@ -20,7 +20,7 @@ public class articulosNavideños {
 		
 		
 		int contador=0;
-		System.out.println(" ");
+		System.out.println("vaneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ");
 		for(int i=0;i<navidad.size();i++) {
 
 		if(navidad.get(i)=="pesebre"){
@@ -31,7 +31,7 @@ public class articulosNavideños {
 		}
 		}
 
-		System.out.println(" ");
+		System.out.println("alexanderrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr es un perrp hp");
 		for(int i=0;i<navidad.size();i++) {
 
 
@@ -52,5 +52,7 @@ public class articulosNavideños {
 
 
 		}
+		System.out.println("/");
+	   
 	}
 }
