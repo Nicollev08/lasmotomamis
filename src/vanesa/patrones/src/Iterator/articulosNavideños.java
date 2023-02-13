@@ -33,7 +33,7 @@ public class articulosNavideños {
 		}
 		}
 
-		System.out.println("alexanderrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr es un perrp hp");
+		System.out.println("alexanderrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr es un perrp hp, si es muy perro ese man, vane sal de ahi");
 		for(int i=0;i<navidad.size();i++) {
 
 
